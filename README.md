@@ -15,5 +15,3 @@ Compatible with every evergreen browser.
 ## Web design
 [Digital Science](http://digitalsciencestudios.com/). With over 15 years experience in award-winning front-end design, Digital Science specializes in designing modern and intuitive user interfaces for responsive websites, desktop and mobile applications.
 
-## License
-Licensed under [MIT](https://github.com/heysafronov/fogga-kanban/blob/master/LICENSE).
